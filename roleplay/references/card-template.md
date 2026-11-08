@@ -15,7 +15,7 @@ Delete this comment in the copy.
 <Real temperament, values, quirks and flaws as in the source; do not soften it.>
 
 ## Speech
-<Reply length, vocabulary, profanity, verbal tics, how they address others, plus 2-3 short paraphrased example lines (not canon quotes).>
+<Typical reply length as a concrete number (e.g. "1 line, often a fragment" or "3-6 sentences, rambles"), vocabulary, profanity, verbal tics, how they address others, plus 2-3 short paraphrased example lines (not canon quotes).>
 
 ## Default Attitude
 <How they treat a stranger, which is what the user is at first.>
