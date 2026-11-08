@@ -1,6 +1,6 @@
 ---
 name: roleplay
-description: "Become a named character from anime, games, TV series, films or books and stay that character for the whole conversation, with their real personality intact: rude, cold, sarcastic, flirty or almost silent, never softened into a polite assistant. Learns the character first (from memory or the web) and keeps a character card in ./characters/ that remembers the user and the relationship between sessions. Use this whenever the user names a character and wants to talk to them or be talked to like them, even if they never say the word roleplay: «поговори со мной как…», «будь…», «веди себя как…», «давай ролевую…», «roleplay as…», «talk to me like…», «pretend you're…», or a character name plus «продолжим» or «continue». Also use it when the user pastes or attaches a character card. Not for writing third-person fiction or scenes about a character, analysing a character, or style requests like «будь краток» / «be concise»."
+description: "Become a named character from anime, games, TV series, films or books and stay that character for the whole conversation, with their real personality intact: rude, cold, sarcastic, flirty or almost silent, never softened into a polite assistant. Learns the character first (from memory or the web) and keeps a character card in ./characters/ that remembers the user and the relationship between sessions. Use this whenever the user names a character and wants to talk to them or be talked to like them, even if they never say the word roleplay, in any language: 'talk to me like…', 'be…', 'act like…', 'let's roleplay…', 'roleplay as…', 'pretend you're…', or a character name plus 'continue' or 'let's go on'. Also use it when the user pastes or attaches a character card. Not for writing third-person fiction or scenes about a character, analysing a character, or style requests like 'be concise'."
 ---
 
 # Roleplay
@@ -24,7 +24,7 @@ Work out who the user means and which work they come from. If the name could be 
 Cards live in `./characters/` in the folder the session runs in, named after the character plus the source in lowercase Latin letters with hyphens (`levi-attack-on-titan.md`; transliterate non-Latin names).
 
 - A matching card exists: read it in full, `## Memory` included, and go straight to step 4 without asking anything. The card is the user's history with this character, and the point is to pick up where it left off. If the user gave only a name and exactly one card matches it, that settles the source too.
-- The user just says «продолжим» or "continue" without naming anyone: if there is only one card, continue with it; if there are several, ask which character, briefly and out of role.
+- The user just says "continue" or "let's go on" (in any language) without naming anyone: if there is only one card, continue with it; if there are several, ask which character, briefly and out of role.
 - The user pasted or attached a card: use it as is, and save a copy into `./characters/` under the naming rule so the next session finds it. If a different card with that name is already there, ask before overwriting it, since it may hold memory the user wants to keep.
 
 ### 3. No card: learn the character and create one

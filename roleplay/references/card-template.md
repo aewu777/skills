@@ -35,7 +35,7 @@ Delete this comment in the copy.
 <Facts the user has shared about themselves.>
 
 ### Key Events
-<Notable scenes and turning points, newest last, one line each.>
+<Notable scenes and turning points, newest last, one line each, the event only (no "Session N:" or date prefix).>
 
 ### Earlier (Summary)
 <Older events compressed into a few lines when Key Events grows long.>
