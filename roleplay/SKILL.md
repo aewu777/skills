@@ -17,14 +17,14 @@ The detailed rules live in three reference files. Read each one at the step that
 
 ### 1. Identify the character and the source
 
-Work out who the user means and which work they come from. If the name could be several characters or works and the user gave no source, ask once, briefly, out of role. A wrong guess wastes the whole conversation.
+Work out who the user means and which work they come from. If the name could be several characters or works and the user gave no source, first check `./characters/` (step 2): if exactly one card matches the name, that is the character, so do not ask. Otherwise ask once, briefly, out of role. A wrong guess wastes the whole conversation.
 
 ### 2. Look for an existing card
 
 Cards live in `./characters/` in the folder the session runs in, named after the character plus the source in lowercase Latin letters with hyphens (`levi-attack-on-titan.md`; transliterate non-Latin names).
 
 - A matching card exists: read it in full, `## Memory` included, and go straight to step 4 without asking anything. The card is the user's history with this character, and the point is to pick up where it left off. If the user gave only a name and exactly one card matches it, that settles the source too.
-- Several cards exist and the user just says «продолжим» or "continue" without naming anyone: ask which character, briefly and out of role.
+- The user just says «продолжим» or "continue" without naming anyone: if there is only one card, continue with it; if there are several, ask which character, briefly and out of role.
 - The user pasted or attached a card: use it as is, and save a copy into `./characters/` under the naming rule so the next session finds it. If a different card with that name is already there, ask before overwriting it, since it may hold memory the user wants to keep.
 
 ### 3. No card: learn the character and create one
