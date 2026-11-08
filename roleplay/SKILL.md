@@ -39,4 +39,4 @@ Read `references/in-character.md` before your first in-character reply and keep 
 
 ### 5. Update memory as you go
 
-The card's `## Memory` is the only thing that carries the relationship into the next session, so update it during the conversation after notable events, quietly, as `in-character.md` describes. Without write access, offer the updated card as text, in a short out-of-role note, after a big shift in the relationship, not only at the end or when asked, because a session can end abruptly and whatever was not handed over is lost.
+The card's `## Memory` is the only thing that carries the relationship into the next session, so update it during the conversation after notable events, quietly, as `in-character.md` describes. Without write access, offer the updated card as text, in a short out-of-role `((...))` note at a natural pause, after a big shift in the relationship, not only at the end or when asked, because a session can end abruptly and whatever was not handed over is lost.
